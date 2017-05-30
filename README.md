@@ -2,6 +2,11 @@
 
 Simple Dashboard Admin App built using Angular 4 and Bootstrap 4
 
+This project is a port of the Free Admin Bootstrap Theme [SB Admin v4.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to Angular4 Theme.
+
+Powered by [StartAngular](http://startangular.com/) & [StrapUI](http://strapui.com/)
+
+## [Demo](http://rawgit.com/start-angular/SB-Admin-BS4-Angular-4/master/dist/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
